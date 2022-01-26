@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import useDeleteAllComments from './useDeleteAllComments';
+import useDeleteAllComments from '../../hooks/useDeleteAllComments';
 import styles from './DeleteAllCommentsButton.css';
 
 const DeleteAllCommentsButton = () => {

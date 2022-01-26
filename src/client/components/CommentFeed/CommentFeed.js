@@ -1,5 +1,5 @@
 import React from 'react';
-import useGetComments from './useGetComments';
+import useGetComments from '../../hooks/useGetComments';
 import CommentFeedEntry from './CommentFeedEntry';
 import styles from './CommentFeed.css';
 

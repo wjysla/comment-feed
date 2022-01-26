@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import usePostComment from './usePostComment';
+import usePostComment from '../../hooks/usePostComment';
 import styles from './CommentForm.css';
 
 const CommentForm = () => {
