@@ -1,0 +1,31 @@
+.container {
+    padding: 16px 0;
+    float: left;
+    width: 30%;
+    margin: 24px;
+    position: fixed;
+    text-align: left;
+}
+
+.inputContainer {
+    padding: 4px 4px;
+    width: 100%;
+}
+
+.textareaContainer {
+    padding: 4px 4px;
+    width: 100%;
+}
+
+.title {
+    font-size: 24px;
+}
+
+.inputLabel {
+    margin-top: 16px;
+}
+
+.button {
+    margin-top: 16px;
+    float: right;
+}
