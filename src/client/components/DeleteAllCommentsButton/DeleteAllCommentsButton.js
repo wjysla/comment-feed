@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import useDeleteAllComments from '../../hooks/useDeleteAllComments';
 import styles from './DeleteAllCommentsButton.css';
 
